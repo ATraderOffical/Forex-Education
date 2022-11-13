@@ -1,7 +1,8 @@
 # What is traded in Forex?
+Forexမှာ ကျနော်တို့tradeလို့ရတဲ့ Currency တွေမြောက်များစွာရှိပါတယ်။ 
 
 ## Eight Major Currencies
-Forexမှာ ကျနော်တို့tradeလို့ရတဲ့ Currency တွေမြောက်များစွာရှိပါတယ်။ ဒါပေမဲ့ traderတွေအများဆုံးtradeတယ်၊ ပြီးတော့ ကမ္ဘာ့ အင်အားအကောင်းဆုံး စီးပွားရေးရှိတဲ့ နိုင်ငံတွေရဲ့ Currenciesတွေကိုတော့ Major Currenciesတွေလို့သတ်မှတ်ထားတာဖြစ်ပါတယ်။ 
+ဒါပေမဲ့ traderတွေအများဆုံးtradeတယ်၊ ပြီးတော့ ကမ္ဘာ့ အင်အားအကောင်းဆုံး စီးပွားရေးရှိတဲ့ နိုင်ငံတွေရဲ့ Currenciesတွေကိုတော့ Major Currenciesတွေလို့သတ်မှတ်ထားတာဖြစ်ပါတယ်။ 
 သူ့မှာ 8မျိုးလောက်ရှိပါတယ်။
 * **USD (U.S Dollar)**
 * **GBP (Great Britain Pound)**
