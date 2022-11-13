@@ -42,7 +42,7 @@ EUR/USD ဆိုတဲ့ pairကိုtradeမယ်ဆိုရင် EURဒ�
 * **GBP/CHF**
 * **GBP/AUD**
 * **EUR/JPY**
-*AUD/CAD*
+* **AUD/CAD**
 ## Exotic Pairs
 Exotic Pairsတွေမှာ Major Currencyတစ်ခုခုနဲ့၊ တစ်ခြား ဖွင့်ဖြိုးဆဲစျေးကွက် (သို့) Emerging Market (such as Brazil, Mexico, Chile, Turkey, or Hungary)ထဲက Currencyတစ်ခုခုနဲ့ တွဲထားတာဖြစ်တယ်။
 ဥပမာ - 
