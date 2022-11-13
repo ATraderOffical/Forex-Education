@@ -28,16 +28,27 @@ EUR/USD ဆိုတဲ့ pairကိုtradeမယ်ဆိုရင် EURဒ�
 
 ## Major Pairs
  Major pairsတွေမှာ 8 Major Currencies တွေထဲက USDနဲ့ ကျန်တဲ့ 7မျိုးနဲ့ တွဲတာဖြစ်တဲ့အတွက် 7တွဲရှိမယ်ပေါ့ဗျာ။ 
-EUR/USD, GBP/USD, AUD/USD, NZD/USD, USD/CAD, USD/CHF, USD/JPY
+* **EUR/USD**
+* **GBP/USD**
+* **AUD/USD**
+* **NZD/USD**
+* **USD/CAD**
+* **USD/CHF**
+* **USD/JPY**
 ## Minor Pairs
  Minorမှာကျတော့ USDမပါဘဲ ကျန်တဲ့7မျိုးအချင်းချင်းပြန်တွဲထားတာဖြစ်ပါတယ်။ အဲ့တော့ 6မျိုးလောက်ရှိမယ်ပေါ့။ 
-EUR/GBP, GBP/JPY, GBP/CHF, GBP/AUD, EUR/JPY, AUD/CAD
+* **EUR/GBP**
+* **GBP/JPY**
+* **GBP/CHF**
+* **GBP/AUD**
+* **EUR/JPY**
+*AUD/CAD*
 ## Exotic Pairs
 Exotic Pairsတွေမှာ Major Currencyတစ်ခုခုနဲ့၊ တစ်ခြား ဖွင့်ဖြိုးဆဲစျေးကွက် (သို့) Emerging Market (such as Brazil, Mexico, Chile, Turkey, or Hungary)ထဲက Currencyတစ်ခုခုနဲ့ တွဲထားတာဖြစ်တယ်။
 ဥပမာ - 
--USD/BRL (US/ Brazil)
--USD/RUD(US/Russia)
--USD/MXD(US/Mexico)
+* **USD/BRL (US/ Brazil)**
+* **USD/RUD(US/Russia)**
+* **USD/MXD(US/Mexico)**
 
 ဒီလိုCurrencyတွေကို တွဲ (quoteထားတယ်လို့လဲ ပြောပါတယ်) တဲ့ခါ တန်ဖိုးပိုမြင့်တဲ့ကောင်က ရှေ့ကလာရစမြဲပါ။
 
