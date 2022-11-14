@@ -73,9 +73,12 @@ Forexမှာ နိုင်ငံတစ်ခုရဲ့ Currency တစ်�
     <img alt = "gold-&-forex" src = "https://scontent.frgn2-2.fna.fbcdn.net/v/t39.30808-6/311992531_112559458305236_4945673973957083083_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=C_lWMMS6kEsAX_eQsMB&_nc_ht=scontent.frgn2-2.fna&oh=00_AfAGiBTCGwWPh6rFl7xtlloFyKu8WJwyLh73u9KiVk0-Hw&oe=6376E1EA" />
 </div>
 
+## Contact
 Forex အကြောင်းသိချင်တာပဲဖြစ်ဖြစ်၊ လေ့လာဖို့အကူအညီလိုတာပဲ ဖြစ်ဖြစ် အချိန်မရွေးဆက်သွယ် စုံစမ်းမေးမြန်းနိုင်ပါတယ်။ <br/>
 Phone No. 09448949889, <br/>
 Email: yeminthan200013@gmail.com </br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](visionforexglobal.org)  
+ကျနော်တို့ရဲ့ offical facebook pageမှလည်း အချိန်မရွေးဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။ <br/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)  
 
