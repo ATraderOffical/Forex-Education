@@ -24,6 +24,6 @@ Phone Number: +959448949889 <br/>
 Email: yeminthan200013@gmail.com <br/>
 
 Follow us on the social media: <br/>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://visionforexglobal.org)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)
 
 
