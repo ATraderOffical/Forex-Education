@@ -15,13 +15,18 @@ Internetဆိုတာတောင် နိုင်ငံအနှံ့ န�
 
 Forexမှာ ဝင်ရောက်ပြီး ကမ္ဘာ့ရွှေနဲ့ငွေကို ရောင်းဝယ်လုပ်ရင်း ကိုယ်ပိုင်စီးပွားရေးတစ်ခုကို စတင်လို့ရနေပါပြီ။ ခဗျား Forexကို မသိသေးလဲ ခဗျားနားလည် ကျွမ်းကျင်တဲ့ထိ ကျနော်တို့ဘက်ကနေ တာဝန်ယူ မိတ်ဆက်သင်ကြားပေးမှာဖြစ်ပြီး၊ ခဗျားကိုယ်တိုင် ထဲထဲဝင်ဝင်သိသွားပြီဆိုမှ ဝင်ရောက်ရောင်းဝယ် ရမှာဖြစ်ပါတယ်။ ခဗျားဟာ လုပ်ငန်းရှင်တစ်ယောက်ဖြစ်ပြီး ပိုက်ဆံရှာဖို့ စိတ်ဝင်စားတယ်ဆိုရင်ပဲ ကျနော်တို့နဲ့ ဆက်သွယ်ပေးပါ၊ ခဗျားမှာ သံသယစိတ်တွေပြည့်​နေရင် သိလိုတာမေးပါ။ ကျနော်တို့ လမ်းကြောင်း ပြပေးပါရစေ။
 
-```
-Ye Min Than
-09448949889
-(Financial Service Consultant - Vision Global Myanmar International Consultant Co.Ltd)
-```
 
-<picture>
+<div>
   <img alt = "myanmar and forex" src = "https://scontent.frgn2-2.fna.fbcdn.net/v/t39.30808-6/312364045_116292441265271_1282154674607313578_n.jpg?stp=dst-jpg_s600x600&_nc_cat=107&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=KWNDmx372E4AX-vN6jw&tn=AjSa5uwttGBsshXH&_nc_ht=scontent.frgn2-2.fna&oh=00_AfDiqlXu2zZqOJVJTJNx2SQhAbHSXNr8eU2L49KXz85Hmw&oe=637488B2" /> 
- </picutre
+ </div>
+
+
+## Contact
+Forex အကြောင်းသိချင်တာပဲဖြစ်ဖြစ်၊ လေ့လာဖို့အကူအညီလိုတာပဲ ဖြစ်ဖြစ် အချိန်မရွေးဆက်သွယ် စုံစမ်းမေးမြန်းနိုင်ပါတယ်။ <br/>
+Phone No. 09448949889, <br/>
+Email: yeminthan200013@gmail.com </br>
+
+ကျနော်တို့ရဲ့ offical facebook pageမှလည်း အချိန်မရွေးဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။ <br/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)  
 
