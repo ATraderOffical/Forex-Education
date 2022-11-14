@@ -34,3 +34,13 @@ Exchange Rateတွေဟာ အမြဲတမ်းတသတ်မတ်ထဲ
 ဒီလောက်ဆိုရင်တော့ Forexအကြောင်း တစ်စေ့တစ်စောင်း သိသွားပြီလို့မျှော်လင့်ပါတယ်။
 
 
+## Contact
+Forex အကြောင်းသိချင်တာပဲဖြစ်ဖြစ်၊ လေ့လာဖို့အကူအညီလိုတာပဲ ဖြစ်ဖြစ် အချိန်မရွေးဆက်သွယ် စုံစမ်းမေးမြန်းနိုင်ပါတယ်။ <br/>
+Phone No. 09448949889, <br/>
+Email: yeminthan200013@gmail.com </br>
+
+ကျနော်တို့ရဲ့ offical facebook pageမှလည်း အချိန်မရွေးဆက်သွယ်မေးမြန်းနိုင်ပါတယ်။ <br/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ATrader.Offical)  
+
+
